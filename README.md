@@ -39,8 +39,13 @@
   
   Ans:The pipeline stops execution
 
-<img width="1906" height="1032" alt="Image" src="https://github.com/user-attachments/assets/d1b10533-3f62-4b0e-a5fc-173ae65c6fcc" />
+
+   #**: Deploy Both Applications on the Same Server**
+
 <img width="1907" height="1015" alt="Image" src="https://github.com/user-attachments/assets/c6a109e0-ce83-48c9-8477-53235e142232" />
+
+<img width="1906" height="1032" alt="Image" src="https://github.com/user-attachments/assets/d1b10533-3f62-4b0e-a5fc-173ae65c6fcc" />
+
 
   
     
