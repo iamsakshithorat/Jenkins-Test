@@ -56,6 +56,11 @@
   
 <img width="1663" height="982" alt="Image" src="https://github.com/user-attachments/assets/30276798-d2d0-4889-966b-4fbc39532162" />
 
+**GitHub webhook configuration**
+
+<img width="1856" height="863" alt="Image" src="https://github.com/user-attachments/assets/df0c6445-0e56-401d-afdc-c4d3a785f8ff" />
+
+<img width="1907" height="960" alt="Image" src="https://github.com/user-attachments/assets/0c2b75b7-ec95-459d-bf78-f7de727f6ff7" />
 
 
   
