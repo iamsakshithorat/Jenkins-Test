@@ -1,32 +1,45 @@
 # Jenkins-Test MCQ
 1  What is Jenkins mainly used for?
-Ans :Continuous Integration and Continuous Deliver
+   
+   Ans :Continuous Integration and Continuous Deliver
 
-2. Which type of job allows you to define build steps using code
-in Jenkins?
-Ans: Freestyle Project
+2.Which type of job allows you to define build steps using code in Jenkins?
+
+   Ans: Freestyle Project
 
 3.Which file is used to define a pipeline in Jenkins?
-Ans :Jenkinsfile
+  
+   Ans :Jenkinsfile
 
-4. What is the purpose of a Jenkins Agent (Node)?
-Ans :To execute jobs assigned by the Jenkins controller
+4.What is the purpose of a Jenkins Agent (Node)?
+   
+   Ans :To execute jobs assigned by the Jenkins controller
 
-5. Which plugin is required to connect Jenkins with GitHub?
-Ans: Git Plugin
+5.Which plugin is required to connect Jenkins with GitHub?
+   
+   Ans: Git Plugin
 
-6. What is the purpose of a Webhook in Jenkins CI/CD?
-Ans: To trigger build automatically on code push
+6.What is the purpose of a Webhook in Jenkins CI/CD?
+  
+   Ans: To trigger build automatically on code push
 
-7. Which command is used inside Jenkins Pipeline to execute
-shell commands
-Ans: sh
+7.Which command is used inside Jenkins Pipeline to execute shell commands
+  
+   Ans: sh
 
-8. What is the purpose of post block in Jenkins Pipeline?
-Ans:  Execute steps after pipeline stages
+8.What is the purpose of post block in Jenkins Pipeline?
+  
+  Ans: Execute steps after pipeline stages
 
-9. What is the use of sshagent in Jenkins Pipeline?
-Ans: Use stored SSH credentials during execution
+9.What is the use of sshagent in Jenkins Pipeline?
+ 
+  Ans: Use stored SSH credentials during execution
 
-10:What happens if a stage fails in Jenkins Pipeline (by default)?
-Ans:The pipeline stops execution
+10.What happens if a stage fails in Jenkins Pipeline (by default)?
+  
+  Ans:The pipeline stops execution
+
+  
+
+  
+    
