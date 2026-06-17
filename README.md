@@ -46,6 +46,17 @@
 
 <img width="1906" height="1032" alt="Image" src="https://github.com/user-attachments/assets/d1b10533-3f62-4b0e-a5fc-173ae65c6fcc" />
 
+**Create Jenkins Pipeline Jobs**
+
+<img width="1892" height="928" alt="Image" src="https://github.com/user-attachments/assets/5e04718d-c2fb-4392-8cba-bb8d9ad6f340" />
+
+**Jenkins pipeline**
+
+<img width="1127" height="891" alt="Image" src="https://github.com/user-attachments/assets/62e0b96a-f586-4a67-ad1f-63ea7c0a0791" />
+  
+<img width="1663" height="982" alt="Image" src="https://github.com/user-attachments/assets/30276798-d2d0-4889-966b-4fbc39532162" />
+
+
 
   
     
